@@ -1,8 +1,8 @@
 <h1>Stopwatch</h1>
 
-A stopwatch using HTML,CSS and JavaScript. Here are few screenshots you might be interested to see:
+A stopwatch using HTML,CSS and JavaScript. Here's a screenshot you might be interested to see:
 
-<img src="stopwatch image.JPG" alt="stopwatch" width="200" height="200">
+<img src="stopwatch image.JPG" alt="stopwatch" width="200" height="300">
 
 Here's the link:)
 

@@ -8,9 +8,9 @@
 }
 
 body{
-	background: #414d0b;
-	background: -webkit-linear-gradient(to right, #727a17, #414d0b);
-	background: linear-gradient(to right, #727a17, #414d0b);
+	background: #3E5151;
+	background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);
+	background: linear-gradient(to right, #DECBA4, #3E5151);
 }
 
 #start{
@@ -21,6 +21,7 @@ body{
 	font-weight: bold;
 	border-radius: 9px;
 	border-style: none;
+	outline: none;
 	box-shadow: 23px #999;
 	background-color: #F8F8FF;
 }
@@ -33,6 +34,7 @@ body{
 	font-weight: bold;
 	border-radius: 9px;
 	border-style: none;
+	outline: none;
 	box-shadow: 23px #999;
 	background-color: #F8F8FF;
 }
