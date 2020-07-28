@@ -1,0 +1,38 @@
+.container{
+	text-align:center;
+	margin:20%;
+}
+
+#display{
+	font-size: 80px;
+}
+
+body{
+	background: #414d0b;
+	background: -webkit-linear-gradient(to right, #727a17, #414d0b);
+	background: linear-gradient(to right, #727a17, #414d0b);
+}
+
+#start{
+	text-transform: uppercase;
+	padding:6px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 9px;
+	border-style: none;
+	box-shadow: 23px #999;
+	background-color: #F8F8FF;
+}
+
+#reset{
+	text-transform: uppercase;
+	padding: 6px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 9px;
+	border-style: none;
+	box-shadow: 23px #999;
+	background-color: #F8F8FF;
+}
