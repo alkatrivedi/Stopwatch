@@ -2,7 +2,7 @@
 
 A stopwatch using HTML,CSS and JavaScript. Here's a screenshot you might be interested to see:
 
-<img src="stopwatch image.JPG" alt="stopwatch" width="200" height="300">
+<img src="stopwatch image.JPG" alt="stopwatch" width="300" height="200">
 
 Here's the link:)
 
